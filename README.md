@@ -14,4 +14,8 @@ And on clicking the image you can go to gain the more information about the imag
 //Third Commit
 Adding Second Webpage in Which all the cultural heritage sites is shown.
 In this webpage you can see the short description about cultural heritage sites with image.
+
+//Fourth Commit 
+Adding Third Webpage in Which all the natural heritage sites is shown.
+In this webpage you can see the short description about natural heritage sites with image.
 </pre>
