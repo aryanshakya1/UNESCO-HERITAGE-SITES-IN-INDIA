@@ -30,4 +30,11 @@ In this webpage you can see the short description about natural heritage sites w
 Adding Fourth Webpage in Which all the Mixed heritage sites is shown.
 In this webpage you can see the short description about Mixed heritage sites with image.
 
+//Sixth Commit
+Adding Some Images.
+
+//Seventh Commit
+Make the images Clickable and modified the navbar by creating drop down list in it and attaching
+further webpages to it.
+
 </pre>
